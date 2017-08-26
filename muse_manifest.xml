@@ -1,0 +1,129 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="xn----7sbgfjbrm3aakb4ami9f.xn--p1ai/lending" resolutions="1x" timestamp="1478279444749">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="62426684" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4029768189" seo="true" mt="1478194344904" redirect="false"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="3844301006"/>
+    <file name="index.css" crc="194727629" ref="index"/>
+    <file name="master_______-b.css" crc="365195678" ref="index:услуги"/>
+    <file name="_____.css" crc="451099270" ref="видео"/>
+    <file name="_-___.css" crc="4140172814" ref="о-нас"/>
+    <file name="______.css" crc="4113752096" ref="услуги"/>
+    <file name="____.css" crc="300003554" ref="фото"/>
+    <file name="________.css" crc="4293418867" ref="контакты"/>
+    <file name="iefonts_________.css" crc="4293871088" ref="контакты"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:phone>index:о-нас:контакты:фото:услуги:видео"/>
+    <file name="museutils.js" crc="4155826306" ref="index:phone>index:о-нас:контакты:фото:услуги:видео"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index:о-нас:контакты:фото:услуги:видео"/>
+    <file name="museconfig.js" crc="483509463" ref="index:phone>index:о-нас:контакты:фото:услуги:видео"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index:phone>index:о-нас:контакты:фото:услуги:видео"/>
+    <file name="require.js" crc="228336483" ref="index:phone>index:о-нас:контакты:фото:услуги:видео"/>
+    <file name="pie.js" crc="3827607177" ref="index:контакты:фото:видео"/>
+    <file name="webpro.js" crc="4078243563" ref="index:контакты:фото"/>
+    <file name="form_check.php" crc="474517188" ref="index"/>
+    <file name="form_throttle.php" crc="495784356" ref="index"/>
+    <file name="form_process.php" crc="4149049960" ref="index"/>
+    <file name="form-u3726.php" crc="125475143" ref="index"/>
+    <file name="form-u4524.php" crc="3795383936" ref="контакты"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="фото"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="фото"/>
+    <file name="touchswipe.js" crc="157639107" ref="фото"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:фото"/>
+    <file name="1335707984-1535797-0077027_wwwnevseoboicomua.jpg" crc="98479205" ref="index"/>
+    <file name="linii_forma_volna_kraska_ten_1920x1080.jpg" crc="140767066" ref="index:контакты"/>
+    <file name="26-u1448.png" crc="411056626" seo="true" ref="index:услуги"/>
+    <file name="u1616-4.png" crc="364098731" seo="true" ref="index:услуги"/>
+    <file name="логотип1для фильмов-u996.png" crc="264439033" seo="true" ref="index:контакты:услуги"/>
+    <file name="u2244-4.png" crc="301869839" ref="index:услуги"/>
+    <file name="u1195-4.png" crc="3912125469" seo="true" ref="index:услуги"/>
+    <file name="u1617-5.png" crc="233426857" seo="true" ref="index"/>
+    <file name="u2290_states.png" crc="292924795" ref="index"/>
+    <file name="u2290_states-r.png" crc="155960705" ref="index"/>
+    <file name="bq_img.jpg" crc="3864483543" seo="true" ref="index"/>
+    <file name="wed_line.jpg" crc="4240540531" seo="true" ref="index"/>
+    <file name="u2344-36.png" crc="114917382" ref="index"/>
+    <file name="u2304-13.png" crc="3983451532" ref="index"/>
+    <file name="u2322-6.png" crc="3920298836" ref="index"/>
+    <file name="u2325-16.png" crc="4055481523" ref="index"/>
+    <file name="u2319-18.png" crc="94520601" ref="index"/>
+    <file name="u3739-4.png" crc="26677551" ref="index"/>
+    <file name="u3738-17.png" crc="4067785441" ref="index"/>
+    <file name="u3738-17-r.png" crc="235721215" ref="index"/>
+    <file name="u3738-17-m.png" crc="412806330" ref="index"/>
+    <file name="u3738-17-fs.png" crc="4067785441" ref="index"/>
+    <file name="vert-form5-people2-u3740.png" crc="3873197519" ref="index"/>
+    <file name="header.png" crc="4062749230" seo="true" ref="index"/>
+    <file name="vert-form5-phone2-u3742.png" crc="406343215" ref="index"/>
+    <file name="26-u14482.png" crc="411056626" seo="true" ref="контакты"/>
+    <file name="u1616-42.png" crc="364098731" seo="true" ref="контакты"/>
+    <file name="home-u4545.png" crc="58151558" ref="контакты"/>
+    <file name="phone-u4548.png" crc="3848902033" ref="контакты"/>
+    <file name="mail-u4551.png" crc="3786806048" ref="контакты"/>
+    <file name="u4529-17.png" crc="105657385" ref="контакты"/>
+    <file name="u4529-17-r.png" crc="4211993810" ref="контакты"/>
+    <file name="u4529-17-m.png" crc="4211993810" ref="контакты"/>
+    <file name="u4529-17-fs.png" crc="105657385" ref="контакты"/>
+    <file name="1335707984-1535797-0077027_wwwnevseoboicomua2.jpg" crc="98479205" ref="фото:index:видео"/>
+    <file name="u4781-4.png" crc="4046606463" ref="фото"/>
+    <file name="_isctjfmscs-crop-u5161.jpg" crc="340691567" ref="фото" seo="true"/>
+    <file name="0q2sjsg60ua — копия-crop-u5645.jpg" crc="170788117" ref="фото" seo="true"/>
+    <file name="1hr2ls5ygow.jpg" crc="247258560" seo="true" ref="фото"/>
+    <file name="2gzj5qh97xs — копия-crop-u5685.jpg" crc="4215859657" ref="фото" seo="true"/>
+    <file name="2-y_3zvxuga-crop-u5705.jpg" crc="102201137" ref="фото" seo="true"/>
+    <file name="5jrnxjxgmik — копия.jpg" crc="57426046" seo="true" ref="фото"/>
+    <file name="6ibtgmg2zeo — копия.jpg" crc="183925871" seo="true" ref="фото"/>
+    <file name="6x77c-rf1g8 — копия.jpg" crc="3847004722" seo="true" ref="фото"/>
+    <file name="7dbn7srxg1u-crop-u5785.jpg" crc="4283333049" ref="фото" seo="true"/>
+    <file name="7uzu9t2fth0-crop-u5805.jpg" crc="4157825393" ref="фото" seo="true"/>
+    <file name="8ru9kjoo3u4-crop-u5825.jpg" crc="27869228" ref="фото" seo="true"/>
+    <file name="9tconl0jkqc-crop-u5845.jpg" crc="188020074" ref="фото" seo="true"/>
+    <file name="a_4kefq_t4a.jpg" crc="331235015" seo="true" ref="фото"/>
+    <file name="a7zkidaytnc-crop-u5885.jpg" crc="11024020" ref="фото" seo="true"/>
+    <file name="-bfqsv6okk8.jpg" crc="254433232" seo="true" ref="фото"/>
+    <file name="c-kat6r3xm4.jpg" crc="212931969" seo="true" ref="фото"/>
+    <file name="dnjkpvfgqdo-crop-u6005.jpg" crc="4166189305" ref="фото" seo="true"/>
+    <file name="dphcab5tgqi.jpg" crc="4177021892" seo="true" ref="фото"/>
+    <file name="dypjwkmqxrm-crop-u6045.jpg" crc="433808415" ref="фото" seo="true"/>
+    <file name="h0ejuubyom4.jpg" crc="4013492941" seo="true" ref="фото"/>
+    <file name="hl8mheipuc4-crop-u6105.jpg" crc="3787913567" ref="фото" seo="true"/>
+    <file name="huwt_ykf3-w.jpg" crc="230919538" seo="true" ref="фото"/>
+    <file name="ixosio__prc-crop-u6145.jpg" crc="4042975556" ref="фото" seo="true"/>
+    <file name="j2smke3lfho-crop-u6185.jpg" crc="4282622860" ref="фото" seo="true"/>
+    <file name="jyabl0mbdym-crop-u6225.jpg" crc="195917049" ref="фото" seo="true"/>
+    <file name="k8wcnt4-pfw.jpg" crc="4145930669" seo="true" ref="фото"/>
+    <file name="khwma-1c5wa-crop-u6265.jpg" crc="3812373485" ref="фото" seo="true"/>
+    <file name="kkfcbc9jf1y.jpg" crc="476659812" seo="true" ref="фото"/>
+    <file name="kpqbdv1c4dk-crop-u6305.jpg" crc="119127857" ref="фото" seo="true"/>
+    <file name="mgfmqqzinkw.jpg" crc="91142958" seo="true" ref="фото"/>
+    <file name="mn-ctxsdbag.jpg" crc="532976119" seo="true" ref="фото"/>
+    <file name="mq13srnswl4.jpg" crc="365862943" seo="true" ref="фото"/>
+    <file name="ndhd7f68d64-crop-u6405.jpg" crc="371265160" ref="фото" seo="true"/>
+    <file name="ok9hk1h_0au.jpg" crc="3847905050" seo="true" ref="фото"/>
+    <file name="qc6h-xkgznu.jpg" crc="4215353224" seo="true" ref="фото"/>
+    <file name="qu0iwgbfsgg.jpg" crc="3825144013" seo="true" ref="фото"/>
+    <file name="qzi_ciczzba-crop-u6485.jpg" crc="476955678" ref="фото" seo="true"/>
+    <file name="ssspisl49oi.jpg" crc="90009781" seo="true" ref="фото"/>
+    <file name="tb1_1t1zdbk.jpg" crc="205697057" seo="true" ref="фото"/>
+    <file name="vohruuslxsc.jpg" crc="173180531" seo="true" ref="фото"/>
+    <file name="xgngvmw6l0w.jpg" crc="114207347" seo="true" ref="фото"/>
+    <file name="zekze690sey-crop-u6705.jpg" crc="4003973959" ref="фото" seo="true"/>
+    <file name="loading.gif" crc="3815509949" ref="фото"/>
+    <file name="u4738-4.png" crc="301869839" ref="контакты"/>
+    <file name="warp_shadow_strong.png" crc="4043150473" seo="true" ref="контакты:фото"/>
+    <file name="u8108-4.png" crc="3835902343" ref="видео"/>
+  </folder>
+  <file name="index.html" crc="3990105866" seo="true" mt="1478276711787" redirect="true"/>
+  <file name="о-нас.html" crc="43135296" seo="true" mt="1478191459329" redirect="false"/>
+  <file name="контакты.html" crc="320070216" seo="true" mt="1478266871258" redirect="true"/>
+  <file name="фото.html" crc="4223068123" seo="true" mt="1478270937996" redirect="true"/>
+  <file name="услуги.html" crc="4222632546" seo="true" mt="1478279281112" redirect="true"/>
+  <file name="видео.html" crc="4114915470" seo="true" mt="1478277042868" redirect="true"/>
+</manifest>
